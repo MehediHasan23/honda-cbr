@@ -96,6 +96,9 @@ body{
     margin-bottom: 10px;
 }
 /* faq section started  */
+.faq{
+    margin-bottom: 80px;
+}
 .faq h2{
     font-weight: 600;
     font-size: 48px;
@@ -107,3 +110,25 @@ body{
     margin-bottom: 112px;
 }
 /* final part  */
+/* extra section  */
+.services{
+    margin-bottom: 100px;
+}
+.services h2{
+    font-weight: 600;
+    font-size: 48px;
+    letter-spacing: 2px;
+    
+}
+.services h2 span{
+    color: #E76F51;
+}
+/* contact form  */
+.contact-form  h2{
+    font-weight: 600;
+    font-size: 48px;
+    letter-spacing: 2px;
+}
+.contact-form  h2 span{
+    color: #E76F51;
+}
