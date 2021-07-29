@@ -2,10 +2,13 @@ body{
     margin: 0%;
     padding: 0%;
     scroll-behavior: smooth;
+    
 }
+
 .top-section{
     background: #264653;
 }
+
 .top-banner h1{
     font-weight: 600;
     font-size: 48px;
@@ -132,3 +135,6 @@ body{
 .contact-form  h2 span{
     color: #E76F51;
 }
+/* -------------------------------
+-------------finished--------------
+--------------------------------- */
